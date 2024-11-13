@@ -15,6 +15,8 @@ Aplikacja korzysta z dwóch modułów *dotenv* oraz *openai*.
 W celu zainstalowania zależności należy wykonać: 
 ```
 pip install python-dotenv
+```
+```
 pip install openai
 ```
 Wywołanie programu:
