@@ -23,3 +23,4 @@ Wywołanie programu:
 ```
 python zadanie.py
 ```
+Przed wywołaniem programy należy również stworzyć w folderze głównym plik **.env** i ustawić tam zmienną *OPENAI_API_KEY* na swój własny api key
